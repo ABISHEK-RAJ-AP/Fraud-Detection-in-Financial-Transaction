@@ -18,11 +18,11 @@ Financial fraud is a significant concern for businesses and individuals alike. T
 
 ## Dataset
 
-The dataset used in this project contains information about credit card transactions, including various features such as transaction amount, time, and other anonymized features. The dataset contains both legitimate and fraudulent transactions. [](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+The dataset used in this project contains information about credit card transactions, including various features such as transaction amount, time, and other anonymized features. The dataset contains both legitimate and fraudulent transactions. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Setup
 
-To run this project, ensure you have Python installed along with the necessary libraries listed in `requirements.txt`. You can install the required dependencies using the following command:
+To run this project, ensure you have Python installed along with the necessary datasets.
 
 ## Usage
 
